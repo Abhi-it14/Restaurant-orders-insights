@@ -1,4 +1,3 @@
-Here’s a more professional, polished version of your README that keeps your original structure and template while improving clarity, grammar, and readability.
 
 Restaurant Orders and Insights Project
 
