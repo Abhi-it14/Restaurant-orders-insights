@@ -1,6 +1,3 @@
-
-Restaurant Orders and Insights Project
-
 # Restaurant Orders and Insights Project
 
 ## Project Description
